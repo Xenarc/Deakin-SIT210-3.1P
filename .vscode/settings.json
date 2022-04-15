@@ -5,5 +5,8 @@
     "files.associations": {
         "*.ino": "cpp"
     },
-    "C_Cpp.errorSquiggles": "Disabled"
+    "C_Cpp.errorSquiggles": "Enabled",
+    "particle.firmwareVersion": "3.3.0",
+    "particle.targetPlatform": "argon",
+    "particle.targetDevice": "MBlashkiArgon"
 }
